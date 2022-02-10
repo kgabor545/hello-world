@@ -1,7 +1,11 @@
 # hello-world
---------------------
+
+---
+
 ez az első repozitorim
-* Georgina
-* Dávid
-* Milán
-* Dani
+
+- Georgina
+- Dávid
+- Milán
+- Dani
+- narancs
